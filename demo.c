@@ -11,6 +11,7 @@ int main()
 	scanf("%d %d",&a,&b);
 	int c=sum(a,b);
 	printf("sum = %d",c);
+	printf("good");
     return 0;
 }
 
